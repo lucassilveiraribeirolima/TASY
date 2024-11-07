@@ -4,7 +4,7 @@
 
 Este repositório contém scripts SQL desenvolvidos para consultas e manipulação de dados no sistema Tasy. Esses códigos são projetados para facilitar a análise e extração de informações essenciais para o funcionamento e suporte.
 
-## Descrição do Projeto
+## Descrição
 
 O Tasy é um sistema de gestão hospitalar que integra diferentes áreas de um hospital, permitindo a centralização e organização das informações clínicas e administrativas. Neste repositório, você encontrará scripts SQL focados em extração de dados, relatórios e automação de processos no sistema.
 
